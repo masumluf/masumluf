@@ -13,7 +13,7 @@
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white)
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?&style=flat-square&logo=redis&logoColor=white)
-![Debian](https://img.shields.io/badge/Debian-A81D33?style=flat-square&logo=debian&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
 ![Mac OS](https://img.shields.io/badge/macOS-000000?style=flat-square&logo=apple&logoColor=white)
 
 I am a Full Stack Developer with a huge love for Alpine.js, Vue.js, React.js, Laravel, Headless Tech, Everything API, RDBMS, WordPress, TailwindCSS and System Architecture. Currently, **I'm open to work and employment opportunities**.

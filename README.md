@@ -8,7 +8,6 @@
 ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=vue.js&logoColor=4FC08D)
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=flat-square&logoColor=4FC08D)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![MaterialUI](https://img.shields.io/badge/Material--UI-0081CB?style=flat-square&logo=material-ui&logoColor=white)
@@ -28,15 +27,15 @@
 I am a Full Stack Developer with a huge love for javascript and related framework,libraries and System Architecture. Currently, **I'm open to work and employment opportunities**.
 
 
-I love to read books and solve compatitive programming.
+I love to read books and solve competitive programming.
 
 
 - 🌱 I’m currently learning many things, I believe that everyday is a learning opportunity.
 - 👯 I’m currently open for work and employment opportunities (remote and relocation)
 - 📫 I am just one mail away - [masum.luf@gmail.com]
 - 😄 Pronouns: He, Fat & Happy 😄
-- :partying_face: Fun fact: I love to cook, I love to sing, I love to travel on my motorcycle.
-- :wrench: Tools - VSCode, Insomnia, Beekeper Studio, Markdown Editors, Spotify, Local by Flywheel, Docker and the Mighty Terminal with Oh MyZSH and PowerLevel 10K on Mac and Linux (Zorin OS).
+- :partying_face: Fun fact: I love to cook, I love to sing, I love to travel.
+- :wrench: Tools - VSCode, Insomnia, Beekeper Studio, Markdown Editors, Spotify, Local by Flywheel, Docker and the Mighty Terminal with Oh MyZSH .
 
 ### Numbers
 ![Rezaul's Stats](https://github-readme-stats.vercel.app/api?username=masumluf&theme=darcula&show_icons=true&hide_border=true&count_private=true)

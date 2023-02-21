@@ -24,8 +24,7 @@
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
 ![Mac OS](https://img.shields.io/badge/macOS-000000?style=flat-square&logo=apple&logoColor=white)
 
-I am a Full Stack Developer with a huge love for javascript and related framework,libraries and System Architecture. Currently, **I'm open to work and employment opportunities**.
-
+I am a Full Stack Developer with a huge love for javascript and related framework,libraries and System Architecture.
 
 I love to read books and solve competitive programming.
 
